@@ -74,6 +74,9 @@ $ ./vendor/bin/sail  artisan migrate
 $ ./vendor/bin/sail artisan test
 ```
 
+<img src="https://i.ibb.co/FWx7yy7/Screenshot-2023-02-20-at-12-29-46-PM.png" width="400">
+
+
 
 
 
